@@ -9,7 +9,7 @@
 
 ###  About Me
 
--  I'm currently working as a **Python Full Stack Developer **
+-  I'm currently working as a Python Full Stack Developer 
 -  I'm skilled in building **scalable RESTful APIs** with Django REST Framework
 -  Based in **Kannur, Kerala, India**
 -  Reach me at **anushaak5663@gmail.com**
