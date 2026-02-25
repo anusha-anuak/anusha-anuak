@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anusha A K</h1>
+<h1 align="center">I'm Anusha A K</h1>
 <h3 align="center">Python Full Stack Developer</h3>
 
 <p align="center">
@@ -54,13 +54,6 @@
 |  **Subscription Management** | Python, Django, DRF | Manages subscription lifecycle, license expiration tracking & renewal handling |
 |  **Free Matrimony App** | Flutter, Dart, Firebase | Profile creation, matchmaking & secure registration platform |
 |  **Weather App** | HTML, CSS, JavaScript | Real-time city-based weather using OpenWeatherMap API |
-
----
-
-###  Certifications
-
-- 🏅 **Flutter Development** — MaiTexa Technologies
-- 🏅 **React | Python Full Stack Development** — Techno Dot Academy
 
 ---
 
