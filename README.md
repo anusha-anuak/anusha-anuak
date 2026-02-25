@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anusha A K</h1>
-<h3 align="center">Python Full Stack Developer | Django | REST APIs | Flutter</h3>
+<h3 align="center">Python Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anusha-AK&label=Profile%20views&color=0e75b6&style=flat" alt="Anusha-AK" />
@@ -11,7 +11,6 @@
 
 -  I'm currently working as a **Python Full Stack Developer **
 -  I'm skilled in building **scalable RESTful APIs** with Django REST Framework
--  I follow **DRY and SOLID principles** in every project I build
 -  Based in **Kannur, Kerala, India**
 -  Reach me at **anushaak5663@gmail.com**
 
