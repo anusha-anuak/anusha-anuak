@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anusha A K</h1>
+<h1 align="center">Hi, I'm Anusha A K</h1>
 <h3 align="center">Python Full Stack Developer</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
 -  I'm currently working as a **Python Full Stack Developer **
 -  I'm skilled in building **scalable RESTful APIs** with Django REST Framework
@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -46,7 +46,7 @@
 
 ---
 
-### 🚀 Projects
+###  Projects
 
 | Project | Tech Stack | Description |
 |---|---|---|
@@ -57,14 +57,14 @@
 
 ---
 
-### 📜 Certifications
+###  Certifications
 
 - 🏅 **Flutter Development** — MaiTexa Technologies
 - 🏅 **React | Python Full Stack Development** — Techno Dot Academy
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/anusha-ak" target="_blank">
