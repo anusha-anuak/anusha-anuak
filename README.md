@@ -9,11 +9,11 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I'm currently working as a **Python Full Stack Developer Intern at Technodot Academy**
-- 🌱 I'm skilled in building **scalable RESTful APIs** with Django REST Framework
-- 💡 I follow **DRY and SOLID principles** in every project I build
-- 📍 Based in **Kannur, Kerala, India**
-- 📫 Reach me at **anushaak5663@gmail.com**
+-  I'm currently working as a **Python Full Stack Developer **
+-  I'm skilled in building **scalable RESTful APIs** with Django REST Framework
+-  I follow **DRY and SOLID principles** in every project I build
+-  Based in **Kannur, Kerala, India**
+-  Reach me at **anushaak5663@gmail.com**
 
 ---
 
@@ -51,10 +51,10 @@
 
 | Project | Tech Stack | Description |
 |---|---|---|
-| 🛒 **E-commerce Website** | Python, Django, DRF | Backend-driven e-commerce app with user auth, product listing, cart & order management |
-| 📋 **Subscription Management** | Python, Django, DRF | Manages subscription lifecycle, license expiration tracking & renewal handling |
-| 💍 **Free Matrimony App** | Flutter, Dart, Firebase | Profile creation, matchmaking & secure registration platform |
-| 🌤️ **Weather App** | HTML, CSS, JavaScript | Real-time city-based weather using OpenWeatherMap API |
+|  **E-commerce Website** | Python, Django, DRF | Backend-driven e-commerce app with user auth, product listing, cart & order management |
+|  **Subscription Management** | Python, Django, DRF | Manages subscription lifecycle, license expiration tracking & renewal handling |
+|  **Free Matrimony App** | Flutter, Dart, Firebase | Profile creation, matchmaking & secure registration platform |
+|  **Weather App** | HTML, CSS, JavaScript | Real-time city-based weather using OpenWeatherMap API |
 
 ---
 
